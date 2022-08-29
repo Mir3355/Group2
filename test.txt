@@ -17,3 +17,5 @@ Test /Mats
 Testar igen /Mats
 >>>>>>> 6340ea4a4dfec39093b7819fcbea9d66b4ead81b
 ny rad
+
+Här lägger jag in några ord till /Fredrik
