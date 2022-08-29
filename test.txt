@@ -3,7 +3,11 @@ Test file
 Fredrik
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Doris
+=======
+Testar att lägga till några ord till här.
+>>>>>>> 72d4489a8636b43efe8829b53b6081e7180cc569
 =======
 test 
 //Anna
@@ -16,6 +20,9 @@ Test /Mats
 öojh
 Testar igen /Mats
 >>>>>>> 6340ea4a4dfec39093b7819fcbea9d66b4ead81b
+<<<<<<< HEAD
 ny rad
 
 Här lägger jag in några ord till /Fredrik
+=======
+>>>>>>> 72d4489a8636b43efe8829b53b6081e7180cc569
